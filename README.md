@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cocacolaclassic
 - 👀 I’m interested in learning new languages and human languages are not enough challanging for me anymore, so decided to try learning programming languages
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on beauty/jewelry/fashion projects
+- 🌱 I’m currently learning Python
+- 💞️ Working on Marketplace project as QA engineer
 - 📫 You can email me: eastwest13@qq.com
 - ✨ Russian | English | German | Chinese | Japanese
 
